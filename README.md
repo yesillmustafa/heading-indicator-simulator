@@ -1,4 +1,4 @@
-# Turn Coordinator Simulator (Modern OpenGL)
+# Heading Indicator Simulator (Modern OpenGL)
 
 This project is a heading indicator simulator developed using Modern OpenGL. The heading indicator, also known as a directional gyro or gyrocompass, is a flight instrument used to display the aircraft's heading, which is the direction the aircraft is pointing with respect to magnetic north. Unlike a magnetic compass, the heading indicator is driven by a gyro mechanism and is not affected by magnetic deviations or external magnetic fields.
 
