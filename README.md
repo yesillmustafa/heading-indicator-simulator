@@ -60,6 +60,7 @@ cmake --build .
 ```bash
 ./HeadingIndicator
 ```
+7. Change the direction with 'Left Arrow' and 'Right Arrow' keys
 
 
 ## FAQ
