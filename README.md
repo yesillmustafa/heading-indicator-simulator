@@ -18,7 +18,6 @@ The simulator uses the following libraries for OpenGL interactions and rendering
 ## Features
 
 - Realistic Heading Indicator Display
-- Smooth Animation
 - User Interaction
 - Customizable Appearance
 
